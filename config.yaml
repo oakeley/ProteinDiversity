@@ -1,0 +1,29 @@
+# Configuration file for protein diversity pipeline
+# Copy this to config.yaml and modify as needed
+
+pipeline:
+  output_dir: "protein_diversity_results"
+  n_bootstrap: 100
+  
+weights:
+  sequence: 0.4
+  physicochemical: 0.3
+  functional: 0.3
+  
+selection:
+  method: "greedy"  # or "clustering"
+  n_select: 10
+  
+data_sources:
+  uniprot_base_url: "https://rest.uniprot.org/uniprotkb/"
+  alphafold_base_url: "https://alphafold.ebi.ac.uk/files/"
+  timeout: 30
+  
+visualization:
+  create_plots: true
+  plot_format: "png"
+  plot_dpi: 300
+  
+logging:
+  level: "INFO"
+  save_to_file: true
