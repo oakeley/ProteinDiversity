@@ -1,0 +1,77 @@
+{
+  "input_info": {
+    "total_proteins": 8,
+    "selected_count": 5,
+    "selection_method": "clustering"
+  },
+  "selected_proteins": [
+    {
+      "id": "hemoglobin_alpha",
+      "index": 2
+    },
+    {
+      "id": "insulin_human",
+      "index": 0
+    },
+    {
+      "id": "cytochrome_c",
+      "index": 4
+    },
+    {
+      "id": "trypsin_human",
+      "index": 6
+    },
+    {
+      "id": "pepsin_human",
+      "index": 7
+    }
+  ],
+  "diversity_analysis": {
+    "mean_pairwise_diversity": 0.4417143413859497,
+    "std_pairwise_diversity": 0.09956922927096055,
+    "min_pairwise_diversity": 0.3062830203728727,
+    "max_pairwise_diversity": 0.6356919218907104,
+    "median_pairwise_diversity": 0.4126379766574141
+  },
+  "sequence_analysis": {
+    "length_stats": {
+      "mean": 795.0,
+      "std": 1300.685819096987,
+      "min": 105,
+      "max": 3395,
+      "range": 3290
+    },
+    "sequence_count": 5
+  },
+  "functional_analysis": {
+    "unique_ec_numbers": 0,
+    "unique_go_terms": 0,
+    "unique_keywords": 0,
+    "total_annotations": 0
+  },
+  "validation": {
+    "current_diversity": 0.4417143413859497,
+    "bootstrap_mean": 0.3987770517137454,
+    "bootstrap_std": 0.039040527507490756,
+    "percentile_rank": 90.0,
+    "z_score": 1.0998132559547487
+  },
+  "diversity_matrices": {
+    "sequence_diversity_shape": [
+      8,
+      8
+    ],
+    "physicochemical_diversity_shape": [
+      8,
+      8
+    ],
+    "functional_diversity_shape": [
+      8,
+      8
+    ],
+    "combined_diversity_shape": [
+      8,
+      8
+    ]
+  }
+}

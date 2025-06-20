@@ -1,0 +1,25 @@
+run_id,method,n_select,weights,output_dir,mean_diversity,percentile_rank,z_score,total_proteins,functional_diversity,success,error
+1,greedy,5,"{'sequence': 0.6, 'physicochemical': 0.2, 'functional': 0.2}",my_batch_results/run_001_greedy_n5_seq0.6_phys0.2_func0.2,0.5179539445534636,98.0,1.3486477603637932,8.0,0.0,True,
+2,greedy,5,"{'sequence': 0.4, 'physicochemical': 0.3, 'functional': 0.3}",my_batch_results/run_002_greedy_n5_seq0.4_phys0.3_func0.3,0.47481218746018394,99.0,1.3778255464804292,8.0,0.0,True,
+3,greedy,5,"{'sequence': 0.2, 'physicochemical': 0.4, 'functional': 0.4}",my_batch_results/run_003_greedy_n5_seq0.2_phys0.4_func0.4,0.4318093222382295,92.0,1.2919386089181881,8.0,0.0,True,
+4,greedy,5,"{'sequence': 0.33, 'physicochemical': 0.33, 'functional': 0.34}",my_batch_results/run_004_greedy_n5_seq0.3_phys0.3_func0.3,0.4585268434626325,97.0,1.3775843988193193,8.0,0.0,True,
+5,clustering,5,"{'sequence': 0.6, 'physicochemical': 0.2, 'functional': 0.2}",my_batch_results/run_005_clustering_n5_seq0.6_phys0.2_func0.2,0.4836706229100238,80.0,0.751246759400041,8.0,0.0,True,
+6,clustering,5,"{'sequence': 0.4, 'physicochemical': 0.3, 'functional': 0.3}",my_batch_results/run_006_clustering_n5_seq0.4_phys0.3_func0.3,0.4532472424938049,82.0,0.904218751380065,8.0,0.0,True,
+7,clustering,5,"{'sequence': 0.2, 'physicochemical': 0.4, 'functional': 0.4}",my_batch_results/run_007_clustering_n5_seq0.2_phys0.4_func0.4,0.417258653614424,79.0,1.0172332873150123,8.0,0.0,True,
+8,clustering,5,"{'sequence': 0.33, 'physicochemical': 0.33, 'functional': 0.34}",my_batch_results/run_008_clustering_n5_seq0.3_phys0.3_func0.3,0.4417143413859497,90.0,1.0998132559547487,8.0,0.0,True,
+9,greedy,10,"{'sequence': 0.6, 'physicochemical': 0.2, 'functional': 0.2}",my_batch_results/run_009_greedy_n10_seq0.6_phys0.2_func0.2,,,,,,False,Not enough proteins with sequences (8) to select 10
+10,greedy,10,"{'sequence': 0.4, 'physicochemical': 0.3, 'functional': 0.3}",my_batch_results/run_010_greedy_n10_seq0.4_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 10
+11,greedy,10,"{'sequence': 0.2, 'physicochemical': 0.4, 'functional': 0.4}",my_batch_results/run_011_greedy_n10_seq0.2_phys0.4_func0.4,,,,,,False,Not enough proteins with sequences (8) to select 10
+12,greedy,10,"{'sequence': 0.33, 'physicochemical': 0.33, 'functional': 0.34}",my_batch_results/run_012_greedy_n10_seq0.3_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 10
+13,clustering,10,"{'sequence': 0.6, 'physicochemical': 0.2, 'functional': 0.2}",my_batch_results/run_013_clustering_n10_seq0.6_phys0.2_func0.2,,,,,,False,Not enough proteins with sequences (8) to select 10
+14,clustering,10,"{'sequence': 0.4, 'physicochemical': 0.3, 'functional': 0.3}",my_batch_results/run_014_clustering_n10_seq0.4_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 10
+15,clustering,10,"{'sequence': 0.2, 'physicochemical': 0.4, 'functional': 0.4}",my_batch_results/run_015_clustering_n10_seq0.2_phys0.4_func0.4,,,,,,False,Not enough proteins with sequences (8) to select 10
+16,clustering,10,"{'sequence': 0.33, 'physicochemical': 0.33, 'functional': 0.34}",my_batch_results/run_016_clustering_n10_seq0.3_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 10
+17,greedy,15,"{'sequence': 0.6, 'physicochemical': 0.2, 'functional': 0.2}",my_batch_results/run_017_greedy_n15_seq0.6_phys0.2_func0.2,,,,,,False,Not enough proteins with sequences (8) to select 15
+18,greedy,15,"{'sequence': 0.4, 'physicochemical': 0.3, 'functional': 0.3}",my_batch_results/run_018_greedy_n15_seq0.4_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 15
+19,greedy,15,"{'sequence': 0.2, 'physicochemical': 0.4, 'functional': 0.4}",my_batch_results/run_019_greedy_n15_seq0.2_phys0.4_func0.4,,,,,,False,Not enough proteins with sequences (8) to select 15
+20,greedy,15,"{'sequence': 0.33, 'physicochemical': 0.33, 'functional': 0.34}",my_batch_results/run_020_greedy_n15_seq0.3_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 15
+21,clustering,15,"{'sequence': 0.6, 'physicochemical': 0.2, 'functional': 0.2}",my_batch_results/run_021_clustering_n15_seq0.6_phys0.2_func0.2,,,,,,False,Not enough proteins with sequences (8) to select 15
+22,clustering,15,"{'sequence': 0.4, 'physicochemical': 0.3, 'functional': 0.3}",my_batch_results/run_022_clustering_n15_seq0.4_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 15
+23,clustering,15,"{'sequence': 0.2, 'physicochemical': 0.4, 'functional': 0.4}",my_batch_results/run_023_clustering_n15_seq0.2_phys0.4_func0.4,,,,,,False,Not enough proteins with sequences (8) to select 15
+24,clustering,15,"{'sequence': 0.33, 'physicochemical': 0.33, 'functional': 0.34}",my_batch_results/run_024_clustering_n15_seq0.3_phys0.3_func0.3,,,,,,False,Not enough proteins with sequences (8) to select 15

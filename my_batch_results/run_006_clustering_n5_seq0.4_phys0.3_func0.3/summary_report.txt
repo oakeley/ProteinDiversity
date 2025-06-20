@@ -1,0 +1,34 @@
+PROTEIN DIVERSITY SELECTION SUMMARY REPORT
+==================================================
+
+INPUT SUMMARY:
+Total proteins analyzed: 8
+Proteins selected: 5
+Selection method: clustering
+
+SELECTED PROTEINS:
+ 1. hemoglobin_alpha (Length: 142 aa)
+ 2. insulin_human (Length: 110 aa)
+ 3. cytochrome_c (Length: 105 aa)
+ 4. trypsin_human (Length: 223 aa)
+ 5. pepsin_human (Length: 3395 aa)
+
+DIVERSITY ANALYSIS:
+Mean pairwise diversity: 0.453
+Std pairwise diversity: 0.114
+Min pairwise diversity: 0.310
+Max pairwise diversity: 0.678
+
+VALIDATION RESULTS:
+Selection diversity score: 0.453
+Random selection average: 0.414 ± 0.043
+Percentile rank: 82.0% (higher is better)
+Z-score: 0.90
+
+INTERPRETATION:
+GOOD: Selected proteins show above-average diversity.
+
+FUNCTIONAL DIVERSITY:
+Unique EC numbers: 0
+Unique GO terms: 0
+Unique keywords: 0

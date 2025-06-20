@@ -1,0 +1,346 @@
+[
+  {
+    "run_id": 1,
+    "method": "greedy",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.6,
+      "physicochemical": 0.2,
+      "functional": 0.2
+    },
+    "output_dir": "my_batch_results/run_001_greedy_n5_seq0.6_phys0.2_func0.2",
+    "mean_diversity": 0.5179539445534636,
+    "percentile_rank": 98.0,
+    "z_score": 1.3486477603637932,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 2,
+    "method": "greedy",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.4,
+      "physicochemical": 0.3,
+      "functional": 0.3
+    },
+    "output_dir": "my_batch_results/run_002_greedy_n5_seq0.4_phys0.3_func0.3",
+    "mean_diversity": 0.47481218746018394,
+    "percentile_rank": 99.0,
+    "z_score": 1.3778255464804292,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 3,
+    "method": "greedy",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.2,
+      "physicochemical": 0.4,
+      "functional": 0.4
+    },
+    "output_dir": "my_batch_results/run_003_greedy_n5_seq0.2_phys0.4_func0.4",
+    "mean_diversity": 0.4318093222382295,
+    "percentile_rank": 92.0,
+    "z_score": 1.2919386089181881,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 4,
+    "method": "greedy",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.33,
+      "physicochemical": 0.33,
+      "functional": 0.34
+    },
+    "output_dir": "my_batch_results/run_004_greedy_n5_seq0.3_phys0.3_func0.3",
+    "mean_diversity": 0.4585268434626325,
+    "percentile_rank": 97.0,
+    "z_score": 1.3775843988193193,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 5,
+    "method": "clustering",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.6,
+      "physicochemical": 0.2,
+      "functional": 0.2
+    },
+    "output_dir": "my_batch_results/run_005_clustering_n5_seq0.6_phys0.2_func0.2",
+    "mean_diversity": 0.4836706229100238,
+    "percentile_rank": 80.0,
+    "z_score": 0.751246759400041,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 6,
+    "method": "clustering",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.4,
+      "physicochemical": 0.3,
+      "functional": 0.3
+    },
+    "output_dir": "my_batch_results/run_006_clustering_n5_seq0.4_phys0.3_func0.3",
+    "mean_diversity": 0.4532472424938049,
+    "percentile_rank": 82.0,
+    "z_score": 0.904218751380065,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 7,
+    "method": "clustering",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.2,
+      "physicochemical": 0.4,
+      "functional": 0.4
+    },
+    "output_dir": "my_batch_results/run_007_clustering_n5_seq0.2_phys0.4_func0.4",
+    "mean_diversity": 0.417258653614424,
+    "percentile_rank": 79.0,
+    "z_score": 1.0172332873150123,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 8,
+    "method": "clustering",
+    "n_select": 5,
+    "weights": {
+      "sequence": 0.33,
+      "physicochemical": 0.33,
+      "functional": 0.34
+    },
+    "output_dir": "my_batch_results/run_008_clustering_n5_seq0.3_phys0.3_func0.3",
+    "mean_diversity": 0.4417143413859497,
+    "percentile_rank": 90.0,
+    "z_score": 1.0998132559547487,
+    "total_proteins": 8,
+    "functional_diversity": 0,
+    "success": true
+  },
+  {
+    "run_id": 9,
+    "method": "greedy",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.6,
+      "physicochemical": 0.2,
+      "functional": 0.2
+    },
+    "output_dir": "my_batch_results/run_009_greedy_n10_seq0.6_phys0.2_func0.2",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 10,
+    "method": "greedy",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.4,
+      "physicochemical": 0.3,
+      "functional": 0.3
+    },
+    "output_dir": "my_batch_results/run_010_greedy_n10_seq0.4_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 11,
+    "method": "greedy",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.2,
+      "physicochemical": 0.4,
+      "functional": 0.4
+    },
+    "output_dir": "my_batch_results/run_011_greedy_n10_seq0.2_phys0.4_func0.4",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 12,
+    "method": "greedy",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.33,
+      "physicochemical": 0.33,
+      "functional": 0.34
+    },
+    "output_dir": "my_batch_results/run_012_greedy_n10_seq0.3_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 13,
+    "method": "clustering",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.6,
+      "physicochemical": 0.2,
+      "functional": 0.2
+    },
+    "output_dir": "my_batch_results/run_013_clustering_n10_seq0.6_phys0.2_func0.2",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 14,
+    "method": "clustering",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.4,
+      "physicochemical": 0.3,
+      "functional": 0.3
+    },
+    "output_dir": "my_batch_results/run_014_clustering_n10_seq0.4_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 15,
+    "method": "clustering",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.2,
+      "physicochemical": 0.4,
+      "functional": 0.4
+    },
+    "output_dir": "my_batch_results/run_015_clustering_n10_seq0.2_phys0.4_func0.4",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 16,
+    "method": "clustering",
+    "n_select": 10,
+    "weights": {
+      "sequence": 0.33,
+      "physicochemical": 0.33,
+      "functional": 0.34
+    },
+    "output_dir": "my_batch_results/run_016_clustering_n10_seq0.3_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 10",
+    "success": false
+  },
+  {
+    "run_id": 17,
+    "method": "greedy",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.6,
+      "physicochemical": 0.2,
+      "functional": 0.2
+    },
+    "output_dir": "my_batch_results/run_017_greedy_n15_seq0.6_phys0.2_func0.2",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  },
+  {
+    "run_id": 18,
+    "method": "greedy",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.4,
+      "physicochemical": 0.3,
+      "functional": 0.3
+    },
+    "output_dir": "my_batch_results/run_018_greedy_n15_seq0.4_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  },
+  {
+    "run_id": 19,
+    "method": "greedy",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.2,
+      "physicochemical": 0.4,
+      "functional": 0.4
+    },
+    "output_dir": "my_batch_results/run_019_greedy_n15_seq0.2_phys0.4_func0.4",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  },
+  {
+    "run_id": 20,
+    "method": "greedy",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.33,
+      "physicochemical": 0.33,
+      "functional": 0.34
+    },
+    "output_dir": "my_batch_results/run_020_greedy_n15_seq0.3_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  },
+  {
+    "run_id": 21,
+    "method": "clustering",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.6,
+      "physicochemical": 0.2,
+      "functional": 0.2
+    },
+    "output_dir": "my_batch_results/run_021_clustering_n15_seq0.6_phys0.2_func0.2",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  },
+  {
+    "run_id": 22,
+    "method": "clustering",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.4,
+      "physicochemical": 0.3,
+      "functional": 0.3
+    },
+    "output_dir": "my_batch_results/run_022_clustering_n15_seq0.4_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  },
+  {
+    "run_id": 23,
+    "method": "clustering",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.2,
+      "physicochemical": 0.4,
+      "functional": 0.4
+    },
+    "output_dir": "my_batch_results/run_023_clustering_n15_seq0.2_phys0.4_func0.4",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  },
+  {
+    "run_id": 24,
+    "method": "clustering",
+    "n_select": 15,
+    "weights": {
+      "sequence": 0.33,
+      "physicochemical": 0.33,
+      "functional": 0.34
+    },
+    "output_dir": "my_batch_results/run_024_clustering_n15_seq0.3_phys0.3_func0.3",
+    "error": "Not enough proteins with sequences (8) to select 15",
+    "success": false
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "input_info": {
+    "total_proteins": 8,
+    "selected_count": 5,
+    "selection_method": "greedy"
+  },
+  "selected_proteins": [
+    {
+      "id": "pepsin_human",
+      "index": 7
+    },
+    {
+      "id": "trypsin_human",
+      "index": 6
+    },
+    {
+      "id": "myoglobin_human",
+      "index": 3
+    },
+    {
+      "id": "insulin_human",
+      "index": 0
+    },
+    {
+      "id": "catalase_human",
+      "index": 5
+    }
+  ],
+  "diversity_analysis": {
+    "mean_pairwise_diversity": 0.47481218746018394,
+    "std_pairwise_diversity": 0.11205271682767275,
+    "min_pairwise_diversity": 0.3542325883029124,
+    "max_pairwise_diversity": 0.677901747173373,
+    "median_pairwise_diversity": 0.4156164001334549
+  },
+  "sequence_analysis": {
+    "length_stats": {
+      "mean": 812.6,
+      "std": 1291.7226637324284,
+      "min": 110,
+      "max": 3395,
+      "range": 3285
+    },
+    "sequence_count": 5
+  },
+  "functional_analysis": {
+    "unique_ec_numbers": 0,
+    "unique_go_terms": 0,
+    "unique_keywords": 0,
+    "total_annotations": 0
+  },
+  "validation": {
+    "current_diversity": 0.47481218746018394,
+    "bootstrap_mean": 0.41203137580388954,
+    "bootstrap_std": 0.04556513835635007,
+    "percentile_rank": 99.0,
+    "z_score": 1.3778255464804292
+  },
+  "diversity_matrices": {
+    "sequence_diversity_shape": [
+      8,
+      8
+    ],
+    "physicochemical_diversity_shape": [
+      8,
+      8
+    ],
+    "functional_diversity_shape": [
+      8,
+      8
+    ],
+    "combined_diversity_shape": [
+      8,
+      8
+    ]
+  }
+}

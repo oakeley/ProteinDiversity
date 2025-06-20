@@ -119,7 +119,7 @@ The `batch_analysis.py` script runs your protein diversity selection pipeline wi
 
 ```bash
 # Run with your FASTA file
-python run_batch_analysis.py your_proteins.fasta my_batch_results
+python run_batch_analysis.py protein.fasta my_batch_results
 ```
 
 ### 2. Interactive Python Usage

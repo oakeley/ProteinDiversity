@@ -1,0 +1,77 @@
+{
+  "input_info": {
+    "total_proteins": 8,
+    "selected_count": 5,
+    "selection_method": "greedy"
+  },
+  "selected_proteins": [
+    {
+      "id": "pepsin_human",
+      "index": 7
+    },
+    {
+      "id": "trypsin_human",
+      "index": 6
+    },
+    {
+      "id": "myoglobin_human",
+      "index": 3
+    },
+    {
+      "id": "catalase_human",
+      "index": 5
+    },
+    {
+      "id": "lysozyme_human",
+      "index": 1
+    }
+  ],
+  "diversity_analysis": {
+    "mean_pairwise_diversity": 0.5179539445534636,
+    "std_pairwise_diversity": 0.14727356461419888,
+    "min_pairwise_diversity": 0.35722953244356154,
+    "max_pairwise_diversity": 0.7852678314489154,
+    "median_pairwise_diversity": 0.43359979096931217
+  },
+  "sequence_analysis": {
+    "length_stats": {
+      "mean": 820.2,
+      "std": 1287.671914736048,
+      "min": 148,
+      "max": 3395,
+      "range": 3247
+    },
+    "sequence_count": 5
+  },
+  "functional_analysis": {
+    "unique_ec_numbers": 0,
+    "unique_go_terms": 0,
+    "unique_keywords": 0,
+    "total_annotations": 0
+  },
+  "validation": {
+    "current_diversity": 0.5179539445534636,
+    "bootstrap_mean": 0.4424896740964983,
+    "bootstrap_std": 0.055955507935303295,
+    "percentile_rank": 98.0,
+    "z_score": 1.3486477603637932
+  },
+  "diversity_matrices": {
+    "sequence_diversity_shape": [
+      8,
+      8
+    ],
+    "physicochemical_diversity_shape": [
+      8,
+      8
+    ],
+    "functional_diversity_shape": [
+      8,
+      8
+    ],
+    "combined_diversity_shape": [
+      8,
+      8
+    ]
+  }
+}

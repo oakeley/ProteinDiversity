@@ -1,0 +1,34 @@
+PROTEIN DIVERSITY SELECTION SUMMARY REPORT
+==================================================
+
+INPUT SUMMARY:
+Total proteins analyzed: 8
+Proteins selected: 5
+Selection method: clustering
+
+SELECTED PROTEINS:
+ 1. catalase_human (Length: 181 aa)
+ 2. trypsin_human (Length: 223 aa)
+ 3. hemoglobin_alpha (Length: 142 aa)
+ 4. insulin_human (Length: 110 aa)
+ 5. pepsin_human (Length: 3395 aa)
+
+DIVERSITY ANALYSIS:
+Mean pairwise diversity: 0.417
+Std pairwise diversity: 0.091
+Min pairwise diversity: 0.308
+Max pairwise diversity: 0.571
+
+VALIDATION RESULTS:
+Selection diversity score: 0.417
+Random selection average: 0.380 ± 0.036
+Percentile rank: 79.0% (higher is better)
+Z-score: 1.02
+
+INTERPRETATION:
+MODERATE: Selected proteins are somewhat more diverse than random.
+
+FUNCTIONAL DIVERSITY:
+Unique EC numbers: 0
+Unique GO terms: 0
+Unique keywords: 0

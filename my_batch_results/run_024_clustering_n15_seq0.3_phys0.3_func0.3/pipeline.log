@@ -1,0 +1,18 @@
+2025-06-20 13:53:30,270 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:30,270 - INFO - Input file: your_proteins.fasta
+2025-06-20 13:53:30,271 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:30,271 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:30,271 - ERROR - Pipeline failed: Input file your_proteins.fasta not found
+2025-06-20 13:53:50,415 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:50,415 - INFO - Input file: proteins.fasta
+2025-06-20 13:53:50,415 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:50,415 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:50,416 - ERROR - Pipeline failed: Input file proteins.fasta not found
+2025-06-20 13:54:31,902 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:54:31,902 - INFO - Input file: protein.fasta
+2025-06-20 13:54:31,902 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:54:31,902 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:54:31,902 - INFO - Detected FASTA format with 8 sequences
+2025-06-20 13:54:31,903 - INFO - Collecting protein data...
+2025-06-20 13:54:32,583 - INFO - Collected data for 8 proteins with sequences
+2025-06-20 13:54:32,583 - ERROR - Pipeline failed: Not enough proteins with sequences (8) to select 15

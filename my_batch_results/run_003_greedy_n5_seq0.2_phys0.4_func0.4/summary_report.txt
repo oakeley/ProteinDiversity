@@ -1,0 +1,34 @@
+PROTEIN DIVERSITY SELECTION SUMMARY REPORT
+==================================================
+
+INPUT SUMMARY:
+Total proteins analyzed: 8
+Proteins selected: 5
+Selection method: greedy
+
+SELECTED PROTEINS:
+ 1. pepsin_human (Length: 3395 aa)
+ 2. trypsin_human (Length: 223 aa)
+ 3. myoglobin_human (Length: 154 aa)
+ 4. insulin_human (Length: 110 aa)
+ 5. lysozyme_human (Length: 148 aa)
+
+DIVERSITY ANALYSIS:
+Mean pairwise diversity: 0.432
+Std pairwise diversity: 0.072
+Min pairwise diversity: 0.326
+Max pairwise diversity: 0.571
+
+VALIDATION RESULTS:
+Selection diversity score: 0.432
+Random selection average: 0.390 ± 0.033
+Percentile rank: 92.0% (higher is better)
+Z-score: 1.29
+
+INTERPRETATION:
+GOOD: Selected proteins show above-average diversity.
+
+FUNCTIONAL DIVERSITY:
+Unique EC numbers: 0
+Unique GO terms: 0
+Unique keywords: 0

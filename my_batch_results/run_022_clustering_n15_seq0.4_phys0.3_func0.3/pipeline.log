@@ -1,0 +1,54 @@
+2025-06-20 13:53:30,268 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:30,268 - INFO - Input file: your_proteins.fasta
+2025-06-20 13:53:30,268 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:30,268 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:30,268 - ERROR - Pipeline failed: Input file your_proteins.fasta not found
+2025-06-20 13:53:30,269 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:30,269 - INFO - Input file: your_proteins.fasta
+2025-06-20 13:53:30,269 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:30,270 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:30,270 - ERROR - Pipeline failed: Input file your_proteins.fasta not found
+2025-06-20 13:53:30,270 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:30,270 - INFO - Input file: your_proteins.fasta
+2025-06-20 13:53:30,271 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:30,271 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:30,271 - ERROR - Pipeline failed: Input file your_proteins.fasta not found
+2025-06-20 13:53:50,413 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:50,413 - INFO - Input file: proteins.fasta
+2025-06-20 13:53:50,413 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:50,413 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:50,413 - ERROR - Pipeline failed: Input file proteins.fasta not found
+2025-06-20 13:53:50,414 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:50,414 - INFO - Input file: proteins.fasta
+2025-06-20 13:53:50,414 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:50,414 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:50,414 - ERROR - Pipeline failed: Input file proteins.fasta not found
+2025-06-20 13:53:50,415 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:53:50,415 - INFO - Input file: proteins.fasta
+2025-06-20 13:53:50,415 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:53:50,415 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:53:50,416 - ERROR - Pipeline failed: Input file proteins.fasta not found
+2025-06-20 13:54:30,502 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:54:30,502 - INFO - Input file: protein.fasta
+2025-06-20 13:54:30,502 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:54:30,502 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:54:30,503 - INFO - Detected FASTA format with 8 sequences
+2025-06-20 13:54:30,503 - INFO - Collecting protein data...
+2025-06-20 13:54:31,208 - INFO - Collected data for 8 proteins with sequences
+2025-06-20 13:54:31,209 - ERROR - Pipeline failed: Not enough proteins with sequences (8) to select 15
+2025-06-20 13:54:31,210 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:54:31,210 - INFO - Input file: protein.fasta
+2025-06-20 13:54:31,210 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:54:31,210 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:54:31,210 - INFO - Detected FASTA format with 8 sequences
+2025-06-20 13:54:31,211 - INFO - Collecting protein data...
+2025-06-20 13:54:31,900 - INFO - Collected data for 8 proteins with sequences
+2025-06-20 13:54:31,901 - ERROR - Pipeline failed: Not enough proteins with sequences (8) to select 15
+2025-06-20 13:54:31,902 - INFO - Starting protein diversity selection pipeline
+2025-06-20 13:54:31,902 - INFO - Input file: protein.fasta
+2025-06-20 13:54:31,902 - INFO - Selecting 15 proteins using clustering method
+2025-06-20 13:54:31,902 - INFO - === Phase 1: Data Collection ===
+2025-06-20 13:54:31,902 - INFO - Detected FASTA format with 8 sequences
+2025-06-20 13:54:31,903 - INFO - Collecting protein data...
+2025-06-20 13:54:32,583 - INFO - Collected data for 8 proteins with sequences
+2025-06-20 13:54:32,583 - ERROR - Pipeline failed: Not enough proteins with sequences (8) to select 15

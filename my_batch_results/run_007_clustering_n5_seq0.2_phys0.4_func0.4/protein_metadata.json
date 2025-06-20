@@ -1,0 +1,50 @@
+[
+  {
+    "id": "insulin_human",
+    "sequence_length": 110,
+    "alphafold_url": null,
+    "uniprot_data": null
+  },
+  {
+    "id": "lysozyme_human",
+    "sequence_length": 148,
+    "alphafold_url": null,
+    "uniprot_data": null
+  },
+  {
+    "id": "hemoglobin_alpha",
+    "sequence_length": 142,
+    "alphafold_url": null,
+    "uniprot_data": null
+  },
+  {
+    "id": "myoglobin_human",
+    "sequence_length": 154,
+    "alphafold_url": null,
+    "uniprot_data": null
+  },
+  {
+    "id": "cytochrome_c",
+    "sequence_length": 105,
+    "alphafold_url": null,
+    "uniprot_data": null
+  },
+  {
+    "id": "catalase_human",
+    "sequence_length": 181,
+    "alphafold_url": null,
+    "uniprot_data": null
+  },
+  {
+    "id": "trypsin_human",
+    "sequence_length": 223,
+    "alphafold_url": null,
+    "uniprot_data": null
+  },
+  {
+    "id": "pepsin_human",
+    "sequence_length": 3395,
+    "alphafold_url": null,
+    "uniprot_data": null
+  }
+]
